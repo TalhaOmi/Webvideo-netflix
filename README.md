@@ -13,18 +13,18 @@ As there are so many popular video streaming website like Amazon prime  video, N
 
 # Features for Users: 
 8. User can sign up and logged in this website and their information will be stored and they 
-can update their information also like their name, email address, password etc. if need. 
+can update their information also, like their name, email address, password etc. if needed. 
 2. They can subscribes this website to continue their watching. 
-3. Users can be able to see some kinds of previews of videos or trailer before starting 
+3. Users can see some kinds of previews of videos or trailer before starting 
 certain videos, they can be able to mute the sound of those preview videos also. 
-4. They can be able to see if they saw any kinds of videos earlier or not. 
+4. They can see if they saw any kinds of videos earlier or not. 
 5. They will be able to actually watch TV shows, movies etc. There will be some basic 
 controls also like pausing video, mute video, maximizing the screen etc. 
 6. Users will have a feature like for all kinds of videos come back to start playing where 
 they left. 
-7. Users can be able to search any kinds of TV shows, movies, videos etc. And all the 
+7. Users can search any kinds of TV shows, movies, videos etc. And all the 
 matching shows and videos will be presented in the screen as a result. 
-8. USer can delet their acount too.
+8. USer can delete their acount too.
 
 We used PHP, MySQL [our database will be a relational database], HTML, JavaScript and CSS for this project
 

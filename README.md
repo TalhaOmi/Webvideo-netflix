@@ -10,7 +10,7 @@ As there are so many popular video streaming website like Amazon prime  video, N
 3. Adding subscription option for users. 
 4. Updating entities and also deleting entities if needs. 
 5. Storing videos in various kinds of genre and categories.
-6. 
+
 # Features for Users: 
 8. User can sign up and logged in this website and their information will be stored and they 
 can update their information also like their name, email address, password etc. if need. 
